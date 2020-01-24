@@ -1,0 +1,29 @@
+# Variáveis em R
+
+# Configurando o diretório de trabalho
+# Coloque entre aspas o diretório de trabalho que você está usando no seu computador
+# Não use diretórios com espaço no nome
+
+setwd("D:/Linguagem-R/Introducao/Variaveis")
+getwd()
+
+
+# Criando variáveis
+
+var1 = 100
+var1
+mode(var1)
+help("mode")
+sqrt(var1)
+
+# Podemos atribuir o valor de uma variável para outra variável
+
+var2 = var1
+var2
+mode(var2)
+typeof(var2)
+help("typeof")
+
+# Uma variável pode ser uma lista de elementos
+
+
