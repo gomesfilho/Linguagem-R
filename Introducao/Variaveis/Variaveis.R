@@ -53,5 +53,15 @@ y
 assign("x", c(6.3,4,-2))
 x
 
+# Verificando o valor de uma posição específica
+
+x[1]
+
+# Verificar objetos
+
+ls()
+objects()
+
+
 
 
